@@ -1,7 +1,7 @@
 # Game Design & Programming 1 Timeline
 
 | Unit                  | Start | Blocks | Topics | Outcomes |
-|:--------------------- | ----- | ------ | ------ | -------- |
+|:--------------------- | ----- | :----: | ------ | -------- |
 | 0                     |       |        |        |          |
 | 1: Player Control     |       | 7      |        |          |
 | 2: Basic Gameplay     |       | 7      |        |          |
