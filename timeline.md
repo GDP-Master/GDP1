@@ -1,6 +1,8 @@
-# Game Design & Programming 1 Timeline
+# Game Design & Programming Timeline
 
 ## Summary
+
+### GDP 2 S1 2019-2020
 
 | Unit                  | Start  | Blocks | Design Task               |
 |:--------------------- | ------ |:------:|:------------------------- |
@@ -11,6 +13,24 @@
 | 4: Gameplay Mechanics | 16 Dec |   7    | Implement basic gameplay  |
 | 5: User Interface     |  6 Jan |   7    | Upgrade assets            | 
 
+### GDP 1 S1 2019-2020
+
+| Unit                  | Start  | Blocks | Design Task               |
+|:--------------------- | ------ |:------:|:------------------------- |
+| 0                     |        |        |                           |
+| 1: Player Control     |        |   7    | Create PDD                |
+| 2: Basic Gameplay     | 25 Nov |   7    | Rough in new project      |
+| 3: Sounds & Effects   |  6 Jan |   7    | Implement player controls |
+
+### GDP 2 S2 2019-2020
+
+| Unit                  | Start  | Blocks | Design Task               |
+|:--------------------- | ------ |:------:|:------------------------- |
+| 4: Gameplay Mechanics | 29 Jan |   7    | Implement basic gameplay  |
+| 5: User Interface     |  2 Mar |   7    | Upgrade assets            |
+| 6: Showcase           | 30 Mar |        | Contest about 20 May      |
+
+### GDP 1 S2 2019-2020
 
 | Unit                  | Start  | Blocks | Design Task               |
 |:--------------------- | ------ |:------:|:------------------------- |
@@ -20,7 +40,6 @@
 | 3: Sounds & Effects   | 23 Mar |   7    | Implement player controls |
 | 4: Gameplay Mechanics | 28 Apr |   7    | Implement basic gameplay  |
 | 5: User Interface     | 18 May |   7    | Upgrade assets            | 
-| 6: Showcase           |  8 Jun |   2    |                           |
 
 
 | Unit                  | Start  | Blocks | Design Task               |
